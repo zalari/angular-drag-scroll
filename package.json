@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jellekralt/angular-drag-scroll.git"
+    "url": "https://github.com/zalari/angular-drag-scroll.git"
   },
   "keywords": [
     "drag",
     "scroll",
     "angular"
   ],
-  "author": "Jelle Kralt <jelle@jellekralt.nl>",
+  "author": "David Enke <david.enke@zalari.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jellekralt/angular-drag-scroll/issues"
+    "url": "https://github.com/zalari/angular-drag-scroll/issues"
   },
-  "homepage": "https://github.com/jellekralt/angular-drag-scroll"
+  "homepage": "https://github.com/zalari/angular-drag-scroll"
 }
